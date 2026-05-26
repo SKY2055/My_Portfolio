@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Languages & Databases",
+    "skills": ["Python", "SQL", "PostgreSQL", "JavaScript", "HTML/CSS"]
+  },
+  {
+    "category": "Frameworks & Libraries",
+    "skills": ["FastAPI", "Django", "NumPy", "Pandas", "Matplotlib", "TensorFlow", "scikit-learn"]
+  },
+  {
+    "category": "AI / Data Science",
+    "skills": ["Machine Learning", "NLP", "RAG", "LLMs", "GenAI", "Data Preprocessing", "Web Scraping"]
+  },
+  {
+    "category": "Tools & Infrastructure",
+    "skills": ["Git", "Docker", "Redis", "Qdrant", "VS Code", "Cloud Computing"]
+  }
+]

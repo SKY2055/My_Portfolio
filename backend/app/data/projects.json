@@ -1,0 +1,26 @@
+[
+  {
+    "title": "RAG-Based Resume Q&A Platform",
+    "description": "Full-stack Retrieval-Augmented Generation (RAG) system for uploading resumes/documents. Implements document ingestion, semantic chunking, vector embedding (Qdrant), and multi-provider LLM fallback (Groq/Gemini) for high availability. Features PostgreSQL-backed bookings API and Redis-based session management.",
+    "github": "https://github.com/SKY2055/Palmmind",
+    "tech": ["FastAPI", "Python", "PostgreSQL", "Qdrant", "Redis"]
+  },
+  {
+    "title": "MedTex — Clinical NER System",
+    "description": "Clinical Named Entity Recognition system extracting 7+ categories of medical entities (medications, dosages, diseases, anatomy) from unstructured clinical text using Med7 and SciSpaCy. High-throughput batch processing engine with PySpark and Pandas UDFs enabling parallelized NER extraction. Full-stack solution with FastAPI backend and Vite/React dashboard.",
+    "github": "https://github.com/SKY2055/MedTex",
+    "tech": ["Python", "NLP", "PySpark", "Machine Learning", "FastAPI", "React"]
+  },
+  {
+    "title": "Resume Application Tracking System",
+    "description": "Intelligent resume screening system that ranks candidates against job descriptions using NLP-based relevance scoring. Implements text extraction and analysis pipeline with a FastAPI REST interface for scalable integration.",
+    "github": "https://github.com/SKY2055/Resume-ATS",
+    "tech": ["FastAPI", "Machine Learning", "NLP", "Python"]
+  },
+  {
+    "title": "Smart Web Summarizer",
+    "description": "Automated web content summarization tool powered by large language models, extracting key insights from large volumes of text. Demonstrates proficiency in integrating LLM APIs and building pipelines that transform unstructured data into actionable outputs.",
+    "github": "https://github.com/SKY2055/MACHINE-LEARNING/blob/main/Demo_App/llm_demo_app.py",
+    "tech": ["Python", "LLMs", "GenAI", "NLP"]
+  }
+]

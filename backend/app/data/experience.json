@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Data Science Engineer (Intern)",
+    "company": "TechAxis, Kathmandu",
+    "period": "Dec 2025 - Present",
+    "highlights": [
+      "Develop and deploy machine learning models in Python.",
+      "Build REST APIs using FastAPI, enabling seamless integration of ML models into business workflows.",
+      "Perform systematic data preprocessing, cleaning, and visualization to ensure data quality for downstream analytics and modelling tasks."
+    ]
+  },
+  {
+    "role": "Computer Engineer",
+    "company": "Ministry of Communication and Information Technology, Kathmandu",
+    "period": "Apr 2022 - Jul 2022",
+    "highlights": [
+      "Executed data acquisition, processing, and analytical modelling in support of the Digital Nepal Framework initiative.",
+      "Defined dataset requirements and enforced data integrity through structured QA processes, ensuring reliable inputs for strategic analysis.",
+      "Delivered data-driven insights to support evidence-based decision-making for government stakeholders."
+    ]
+  }
+]
