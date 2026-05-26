@@ -14,7 +14,7 @@
   {
     "title": "Resume Application Tracking System",
     "description": "Intelligent resume screening system that ranks candidates against job descriptions using NLP-based relevance scoring. Implements text extraction and analysis pipeline with a FastAPI REST interface for scalable integration.",
-    "github": "https://github.com/SKY2055/Resume-ATS",
+    "github": "https://github.com/rakeshmahat25/Resume-ATS",
     "tech": ["FastAPI", "Machine Learning", "NLP", "Python"]
   },
   {
